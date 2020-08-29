@@ -32,7 +32,7 @@
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- Node
-- React
+- NodeJs
+- ReactJs
 - React-native 
 - SQLite
