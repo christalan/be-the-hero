@@ -4,12 +4,17 @@
 </h1>
   
 <h4 align="center">
-  Uma Aplicação Fullstack que conecta ONGs e outras instituições <br>
+  Uma Aplicação que conecta ONGs e outras instituições <br>
   a pessoas que tem disponibilidade para ajudar
 </h4>
 
 <p align="center">
-    
+  <a href="https://github.com/nerd0000">
+    <img alt="Feito por Alan" src="https://img.shields.io/badge/made%20by-Alan-8743CC">
+  </a>
+
+  <img alt="Contribuidores" src="https://img.shields.io/github/contributors/Nerd0000/Be-the-hero">
+
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Nerd0000/Be-the-hero.svg">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Nerd0000/Be-the-hero.svg">
