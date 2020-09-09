@@ -21,11 +21,11 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nerd0000/Be-the-hero.svg">
 
-  <a href="https://github.com/Nerd0000/Ecoleta/commits/master">
+  <a href="https://github.com/Nerd0000/Be-the-hero/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nerd0000/Be-the-hero.svg">
   </a>
 
-  <a href="https://github.com/Nerd0000/Ecoleta/issues">
+  <a href="https://github.com/Nerd0000/Be-the-hero/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Nerd0000/Be-the-hero.svg">
   </a>
 
