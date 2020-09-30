@@ -26,7 +26,7 @@
   </a>
 </p>
 
-![image](https://github.com/christyanbrayan/be-the-hero/blob/master/imgs/print1.png)
+![image](https://github.com/nerd0000/Be-the-hero/blob/master/foto.png)
 
 ## 🚀 Tecnologias utilizadas
 
