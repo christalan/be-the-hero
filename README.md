@@ -24,16 +24,11 @@
   <a href="https://github.com/Nerd0000/Be-the-hero/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nerd0000/Be-the-hero.svg">
   </a>
-
-  <a href="https://github.com/Nerd0000/Be-the-hero/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Nerd0000/Be-the-hero.svg">
-  </a>
-
 </p>
 
 ![image](https://github.com/christyanbrayan/be-the-hero/blob/master/imgs/print1.png)
 
-## :rocket: Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
