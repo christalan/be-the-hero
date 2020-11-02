@@ -5,7 +5,7 @@
   
 <h4 align="center">
   Uma aplicação que conecta ONGs e outras instituições <br>
-  a pessoas que tem disponibilidade para ajudar
+  à pessoas que tem disponibilidade para ajudar
 </h4>
 
 <p align="center">
