@@ -14,7 +14,8 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^2.4.0",
-    "sqlite3": "^5.1.6"
+    "sqlite3": "^5.1.6",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
